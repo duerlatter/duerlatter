@@ -1,3 +1,6 @@
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=duerlatter&theme=radical&row=1&column=7&margin-w=5&margin-h=5)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duerlatter/duerlatter/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duerlatter/duerlatter/output/github-contribution-grid-snake.svg">
@@ -10,8 +13,6 @@
     <img height="115px" src="https://github-readme-streak-stats.herokuapp.com/?user=duerlatter" />
   </div>
 </div>
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=duerlatter&theme=radical&row=1&column=7&margin-w=5&margin-h=5)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duerlatter&show_icons=true&theme=radical)
