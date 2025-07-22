@@ -5,12 +5,16 @@
 </picture>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duerlatter&layout=compact&langs_count=8" />
-        <img height="115px" src="https://github-readme-streak-stats.herokuapp.com/?user=duerlatter" />
-    </div>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duerlatter&layout=compact&langs_count=8" />
+    <img height="115px" src="https://github-readme-streak-stats.herokuapp.com/?user=duerlatter" />
+  </div>
 </div>
 
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=duerlatter&theme=radical&row=1&column=7&margin-w=5&margin-h=5)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duerlatter&show_icons=true&theme=radical)
 
 ---
 
