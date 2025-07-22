@@ -16,15 +16,40 @@
 
 ## 🧠 About Me
 
-* Code, coffee, repeat ☕
-* Love hacking on backend infra & distributed systems
-* Clean code > clever code
+* Code. Coffee. Scale it up ☕
+* Passionate about designing large-scale distributed systems with clean, fault-tolerant architecture
+* Focused on performance, availability, and system consistency under real-world constraints
+* Deep interest in CAP, consensus algorithms (Raft, Paxos), service orchestration, and observability
+* Clean architecture advocate · Asynchronous by default · Fail fast, recover smarter
+
+---
 
 ## 🛠 Tech Stack
 
-* **Languages:** Java · Python · JavaScript · TypeScript · Go · C# ...
-* **Frameworks:** Spring Boot · Spring Cloud · Spring Security ...
-* **Databases:** MongoDB · MySQL · Redis · (and anything with a query engine)
-* **Specialties:** Backend engineering · API design · Microservices · System design · Performance tuning
+* **Languages:**
+  Java · Python · JavaScript · TypeScript · Go · C#
+
+* **Frameworks / Libraries:**
+
+  * **Java:** Spring Boot · Spring Cloud · Spring Security · Netty · MyBatis
+  * **Python:** FastAPI · Flask · asyncio · Celery
+  * **JS/TS:** React · Node.js · Express · Next.js
+  * **Go:** Gin · Echo · gRPC
+  * **C#:** ASP.NET Core · SignalR · WinForms (for internal tools)
+
+* **Databases / Infra:**
+  MongoDB · MySQL · Redis · PostgreSQL · Kafka · RabbitMQ · Docker · Nginx
+
+* **Dev Focus:**
+  Large-scale distributed systems · Backend architecture · Microservices · Event-driven design
+  Distributed transactions · Async messaging · System observability (tracing, metrics, logging)
+  Internal developer tooling · Performance tuning · Fault injection & recovery patterns
+
+---
+
+## 🧰 DevOps / Platform Engineering
+
+Kubernetes · Prometheus · Grafana · ELK Stack (Elasticsearch, Logstash, Kibana)
+Consul · Etcd · Zookeeper · GitHub Actions · Jenkins · Helm · Istio · Nacos
 
 ---
