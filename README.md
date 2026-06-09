@@ -1,60 +1,189 @@
+<div align="center">
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=duerlatter&theme=radical&row=1&column=7&margin-w=5&margin-h=5)
+# 👋 Hi, I'm DuerLatter
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duerlatter/duerlatter/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duerlatter/duerlatter/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/duerlatter/duerlatter/output/github-contribution-grid-snake.svg">
-</picture>
+### 🚀 AI Architect | Go Developer | Java Expert | Enterprise Cognitive System Builder
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duerlatter&layout=compact&langs_count=8" />
-    <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=duerlatter" />
-  </div>
+<img src="https://komarev.com/ghpvc/?username=duerlatter&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duerlatter&show_icons=true&theme=radical)
+# 🧠 About Me
+
+```text
+🏢 Enterprise AI Cognitive System Architect
+
+🚀 Focus On:
+   • AI Agent
+   • Multi-Agent System
+   • Enterprise Knowledge Graph
+   • Data Intelligence
+   • RAG
+   • Eino Framework
+   • Go / Java Architecture
+
+🎯 Current Mission:
+   Building Enterprise AI Brain
+```
 
 ---
 
-## 🧠 About Me 
+# ⚡ Tech Stack
 
-* Code. Coffee. Scale it up ☕
-* Passionate about designing large-scale distributed systems with clean, fault-tolerant architecture
-* Focused on performance, availability, and system consistency under real-world constraints
-* Deep interest in CAP, consensus algorithms (Raft, Paxos), service orchestration, and observability
-* Clean architecture advocate · Asynchronous by default · Fail fast, recover smarter
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=go,java,spring,docker,kubernetes,mysql,redis,nginx,linux,git,vscode" />
 
-## 🛠 Tech Stack
-
-* **Languages:**
-  Java · Python · JavaScript · TypeScript · Go · C#
-
-* **Frameworks / Libraries:**
-
-  * **Java:** Spring Boot · Spring Cloud · Spring Security · Netty · MyBatis
-  * **Python:** FastAPI · Flask · asyncio · Celery
-  * **JS/TS:** React · Node.js · Express · Next.js
-  * **Go:** Gin · Echo · gRPC
-  * **C#:** ASP.NET Core · SignalR · WinForms (for internal tools)
-
-* **Databases / Infra:**
-  MongoDB · MySQL · Redis · PostgreSQL · Kafka · RabbitMQ · Docker · Nginx
-
-* **Dev Focus:**
-  Large-scale distributed systems · Backend architecture · Microservices · Event-driven design
-  Distributed transactions · Async messaging · System observability (tracing, metrics, logging)
-  Internal developer tooling · Performance tuning · Fault injection & recovery patterns
+</div>
 
 ---
 
-## 🧰 DevOps / Platform Engineering
+# 🤖 AI Stack
 
-Kubernetes · Prometheus · Grafana · ELK Stack (Elasticsearch, Logstash, Kibana)
-Consul · Etcd · Zookeeper · GitHub Actions · Jenkins · Helm · Istio · Nacos
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM-GPT5-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agent-Eino-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Knowledge_Graph-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Cognitive_System-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Native-success?style=for-the-badge" />
+
+</div>
 
 ---
+
+# 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duerlatter&theme=github_dark" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duerlatter&theme=react-dark&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=duerlatter&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=duerlatter&theme=github_dark" />
+
+</div>
+
+---
+
+# 📚 Development Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=duerlatter&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duerlatter&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/duerlatter/duerlatter/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/duerlatter/duerlatter/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/duerlatter/duerlatter/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+# 🏗 Enterprise AI Architecture
+
+```text
+┌─────────────────────────────────────┐
+│       Enterprise AI Brain           │
+└───────────────┬─────────────────────┘
+                │
+        ┌───────▼────────┐
+        │ Multi-Agent Hub│
+        └───────┬────────┘
+                │
+ ┌──────────────▼──────────────┐
+ │ Enterprise Knowledge Graph  │
+ └──────────────┬──────────────┘
+                │
+ ┌──────────────▼──────────────┐
+ │  Data Intelligence Platform │
+ └──────────────┬──────────────┘
+                │
+ ┌──────────────▼──────────────┐
+ │    Business Decision AI     │
+ └─────────────────────────────┘
+```
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Cognitive System
+
+Enterprise Decision Intelligence Platform
+
+- Multi-Agent
+- Knowledge Graph
+- Business Analysis
+- Data Insight
+
+---
+
+### 📊 Smart BI Agent
+
+Natural Language To Business Intelligence
+
+- NL2SQL
+- Agent Workflow
+- Data Analysis
+- Intelligent Reporting
+
+---
+
+### 🏪 Store Operation Brain
+
+AI Driven Store Management System
+
+- Revenue Analysis
+- Inventory Prediction
+- Customer Insight
+- Intelligent Recommendations
+
+---
+
+# 🌟 Motto
+
+```text
+Code + Data + AI
+      =
+Enterprise Intelligence
+```
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+</div>
